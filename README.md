@@ -1,4 +1,13 @@
 ### TheLinuxPirate
+Hello, I am a very goofy programmer who is still learning the very basics my goals as of now is to 
+create a Discord bot fully written in Rust and either try to implement OpenAI shit, or add Real World the Game
+as a playable feature...
+
+My projects as of now are:
+- Zonaimacs // My Personal Emacs configuration
+- Wiggler // A simple Discord bot written in rust
+- Real World The Game // Simple board game turned into a Nim project
+
 
 <!--
 **thelinuxpirate/thelinuxpirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
