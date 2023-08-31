@@ -4,6 +4,10 @@ Hello, I am 16 & a very shitty programmer who is still learning the fundamentals
 I hope to get comfortable enough with programming where I can think of something and then be
 able to implement it correctly via code.
 
+
+[![Goofy Ahh Statistics](https://github-readme-stats.vercel.app/api?username=thelinuxpirate)](https://github.com/thelinuxpirate/github-readme-stats)
+
+
 ## Projects
 - Zonaimacs // Personal Emacs Configuration (EXWM + LSP)
 - Wiggler // Discord Bot (Rust?)
