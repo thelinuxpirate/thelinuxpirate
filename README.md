@@ -5,7 +5,7 @@ I hope to get comfortable enough with programming where I can think of something
 able to implement it correctly via code.
 
 
-[![Goofy Ahh Statistics](https://github-readme-stats.vercel.app/api?username=thelinuxpirate)](https://github.com/thelinuxpirate/github-readme-stats)
+[![Goofy Ahh Statistics](https://github-readme-stats.vercel.app/api?username=thelinuxpirate&theme=synthwave)](https://github.com/thelinuxpirate/github-readme-stats)
 
 
 ## Projects
