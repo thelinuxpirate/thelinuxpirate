@@ -1,5 +1,6 @@
 ### TheLinuxPirate
 Hello, I am 16 & a very shitty programmer who is still learning the fundamentals of CS... 
+
 I hope to get comfortable enough with programming where I can think of something and then be
 able to implement it correctly via code.
 
