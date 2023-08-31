@@ -11,8 +11,8 @@ able to implement it correctly via code.
 
 # Extra
 ## KernelCanopy
-I'm also interested in founding an Open Source development company
-to create software for unix-like systems. This would be under the name "KernelCanopy".
+I'm interested in founding an Open Source Development company
+to create software. This would be under the name "KernelCanopy".
 
 ## Software I use:
 [![](https://skillicons.dev/icons?i=linux,discord,emacs,)](https://skillicons.dev)
