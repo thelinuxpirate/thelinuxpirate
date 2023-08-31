@@ -1,25 +1,18 @@
 ### TheLinuxPirate
-Hello, I am a very goofy programmer who is still learning the very basics my goals as of now is to 
-create a Discord bot fully written in Rust and either try to implement OpenAI shit, or add Real World the Game
-as a playable feature...
+Hello, I am a very goofy programmer who is still learning CS... 
+I hope to get comfortable enough with programming where I can think of something and then be
+able to implement it correctly via code.
 
-My projects as of now are:
-- Zonaimacs // My Personal Emacs configuration
-- Wiggler // A simple Discord bot written in rust
-- Real World The Game // Simple board game turned into a Nim project
+# Skills
+
+## Software I use:
+[![](https://skillicons.dev/icons?i=linux,discord,emacs,)](https://skillicons.dev)
 
 
-<!--
-**thelinuxpirate/thelinuxpirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages I'm interested in:
+[![Languages:](https://skillicons.dev/icons?i=nim,rust,c,zig,py,haskell&perline=3)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+- Zonaimacs // Personal Emacs Configuration (EXWM + LSP)
+- Wiggler // Discord Bot (Rust?)
+- Real World The Game // Simple board game (TUI?)
