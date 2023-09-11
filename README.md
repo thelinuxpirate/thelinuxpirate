@@ -23,4 +23,4 @@ to create software. This would be under the name "@KernelCanopy".
 [![](https://skillicons.dev/icons?i=linux,discord,emacs,)](https://skillicons.dev)
 
 ## Languages I'm interested in:
-[![Languages:](https://skillicons.dev/icons?i=nim,rust,c,zig,py,haskell&perline=3)](https://skillicons.dev)
+[![Languages:](https://skillicons.dev/icons?i=c,nim,ts,zig,go,rust&perline=3)](https://skillicons.dev)
