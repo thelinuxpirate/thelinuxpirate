@@ -5,18 +5,18 @@ I hope to get comfortable enough with programming where I can think of something
 able to implement it correctly via code.
 
 
-[![Goofy Ahh Statistics](https://github-readme-stats.vercel.app/api?username=thelinuxpirate&theme=synthwave)](https://github.com/pinguniretr0/github-readme-stats)
+[![Goofy Ahh Statistics](https://github-readme-stats.vercel.app/api?username=pingunioretr0&theme=synthwave)](https://github.com/pinguniretr0/github-readme-stats)
 
 
 ## Projects
-- Zonaimacs // Personal Emacs Configuration (EXWM + LSP)
+- Snormacs // Personal Emacs Configuration (EXWM + LSP)
 - Wiggler // Discord Bot (Rust?)
 - Real World The Game // Simple board game (TUI?)
 
 # Extra
 ## KernelCanopy
 I'm interested in founding an Open Source Development company
-to create software. This would be under the name "KernelCanopy".
+to create software. This would be under the name "@KernelCanopy".
 
 ## Software I use:
 [![](https://skillicons.dev/icons?i=linux,discord,emacs,)](https://skillicons.dev)
