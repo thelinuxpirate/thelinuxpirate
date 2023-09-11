@@ -4,10 +4,10 @@ Hello, I am 16 & a very shitty programmer who is still learning the fundamentals
 I hope to get comfortable enough with programming where I can think of something and then be
 able to implement it correctly via code.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinguinoretr0&theme=dark)](https://github.com/pinguinoretr0/github-readme-stats)
 
-[![Goofy Ahh Statistics](https://github-readme-stats.vercel.app/api?username=pinguinoretr0&theme=synthwave)](https://github.com/pinguinoretr0/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinguinoretr0)](https://github.com/pinguinoretr0/github-readme-stats)
 
+[![Goofy Ahh Statistics](https://github-readme-stats.vercel.app/api?username=pinguinoretr0&theme=dark)](https://github.com/pinguinoretr0/github-readme-stats)
 
 ## Projects
 - Snormacs // Personal Emacs Configuration (EXWM + LSP)
