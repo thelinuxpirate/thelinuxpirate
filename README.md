@@ -6,6 +6,7 @@ able to implement it correctly via code.
 
 
 [![Goofy Ahh Statistics](https://github-readme-stats.vercel.app/api?username=pinguinoretr0&theme=synthwave)](https://github.com/pinguinoretr0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinguinoretr0)](https://github.com/pinguinoretr0/github-readme-stats)
 
 
 ## Projects
