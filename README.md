@@ -5,7 +5,7 @@ I hope to get comfortable enough with programming where I can think of something
 able to implement it correctly via code.
 
 
-[![Goofy Ahh Statistics](https://github-readme-stats.vercel.app/api?username=pingunioretr0&theme=synthwave)](https://github.com/pinguniretr0/github-readme-stats)
+[![Goofy Ahh Statistics](https://github-readme-stats.vercel.app/api?username=pinguinoretr0&theme=synthwave)](https://github.com/pinguinoretr0/github-readme-stats)
 
 
 ## Projects
