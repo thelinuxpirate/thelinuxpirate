@@ -1,5 +1,5 @@
 ### TLP
-Hello, I am 16 & a very shitty programmer who is still learning the fundamentals of CS... 
+16 year old programmer & a mediocre software developer. 
 
 I hope to get comfortable enough with programming where I can think of something and then be
 able to implement it correctly via code.
@@ -11,16 +11,16 @@ able to implement it correctly via code.
 
 ## Projects
 - Snormacs // Personal Emacs Configuration (EXWM + LSP)
-- Wiggler // Discord Bot (Rust?)
-- Real World The Game // Simple board game (TUI?)
+- Wiggler // Discord Bot (Undefined Language)
+- Real World The Game // TUI Game (Golang)
 
 # Extra
 ## The Startup
-I'm interested in founding an Open Source Development company
-to create software. This would be under the name "@KernelCanopy".
+I have started working on my own development company to 
+create FOSS. I'm going to try to develop its website soon.
 
-## Software I use:
-[![](https://skillicons.dev/icons?i=linux,discord,emacs,)](https://skillicons.dev)
+## Work Environment:
+[![](https://skillicons.dev/icons?i=linux,emacs,discord)](https://skillicons.dev)
 
 ## Languages I'm interested in:
 [![Languages:](https://skillicons.dev/icons?i=c,nim,ts,zig,go,rust&perline=3)](https://skillicons.dev)
