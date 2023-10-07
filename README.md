@@ -20,7 +20,7 @@ I have started working on my own development company to
 create FOSS. I'm going to try to develop its website soon.
 
 ## Work Environment:
-[![](https://skillicons.dev/icons?i=linux,emacs,discord)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=emacs,linux,neovim,discord)](https://skillicons.dev)
 
-## Languages I'm interested in:
-[![Languages:](https://skillicons.dev/icons?i=c,nim,ts,zig,go,rust&perline=3)](https://skillicons.dev)
+## Languages/Software I'm interested in:
+[![Languages:](https://skillicons.dev/icons?i=rust,haskell,nim,c,zig,go,ts,lua&perline=3)](https://skillicons.dev)
