@@ -23,4 +23,4 @@ create FOSS. I'm going to try to develop its website soon.
 [![](https://skillicons.dev/icons?i=emacs,linux,neovim,discord)](https://skillicons.dev)
 
 ## Languages/Software I'm interested in:
-[![Languages:](https://skillicons.dev/icons?i=rust,haskell,nim,c,zig,go,ts,lua&perline=3)](https://skillicons.dev)
+[![Languages:](https://skillicons.dev/icons?i=rust,haskell,nim,c,zig,go,elixir,ts,lua&perline=3)](https://skillicons.dev)
