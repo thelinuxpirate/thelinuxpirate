@@ -19,6 +19,7 @@ able to implement it correctly via code.
 - ThePirateCove.xyz | Create a website for ThePirateCove
 - Title Pending | Dungeon Crawler Game in progress using Godot Game Engine
 - Chemistry Sig Fig Calculator | Haskell
+- BetterDiscord Vi-like Plugin | Typescript/Javascript
 - Mini Proxy Server | Nim or Haskell
 - Custom Wii Channel Menu | C/C++
 
