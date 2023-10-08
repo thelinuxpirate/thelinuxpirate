@@ -13,7 +13,9 @@ able to implement it correctly via code.
 - Snormacs | GNU Emacs Configuration: includes a stable EXWM environment & an unstable Rust backend
 - Real World: The Game | TUI Game (Rust + Ratatui)
 - Wiggler | A Discord Bot (Rust Bot + RealWorldTheGame)
-(Pending...)
+  
+**(Pending...)**
+
 - ThePirateCove.xyz | Create a website for ThePirateCove
 - Title Pending | Dungeon Crawler Game in progress using Godot Game Engine
 - Chemistry Sig Fig Calculator | Haskell
