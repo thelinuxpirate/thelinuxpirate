@@ -10,14 +10,20 @@ able to implement it correctly via code.
 [![Goofy Ahh Statistics](https://github-readme-stats.vercel.app/api?username=thelinuxpirate&theme=dark)](https://github.com/pinguinoretr0/github-readme-stats)
 
 ## Projects
-- Snormacs // Personal Emacs Configuration (EXWM + LSP)
-- Wiggler // Discord Bot (Undefined Language)
-- Real World The Game // TUI Game (Golang)
+- Snormacs | GNU Emacs Configuration: includes a stable EXWM environment & an unstable Rust backend
+- Real World: The Game | TUI Game (Rust + Ratatui)
+- Wiggler | A Discord Bot (Rust Bot + RealWorldTheGame)
+(Pending...)
+- ThePirateCove.xyz | Create a website for ThePirateCove
+- Title Pending | Dungeon Crawler Game in progress using Godot Game Engine
+- Chemistry Sig Fig Calculator | Haskell
+- Mini Proxy Server | Nim or Haskell
+- Custom Wii Channel Menu | C/C++
 
 # Extra
 ## The Startup
-I have started working on my own development company to 
-create FOSS. I'm going to try to develop its website soon.
+ThePirateCove is small startup group of highschool friends whom have a goal to create a video game.
+In the future I hope to release free & open source software under the name of ThePirateCove.
 
 ## Work Environment:
 [![](https://skillicons.dev/icons?i=emacs,linux,neovim,discord)](https://skillicons.dev)
