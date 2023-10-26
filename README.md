@@ -1,13 +1,12 @@
 ### TLP
 16 year old programmer & a mediocre software developer. 
 
-I hope to get comfortable enough with programming where I can think of something and then be
-able to implement it correctly via code.
+I hope to get comfortable enough with programming where I can start creating some **REAL** programs & software
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelinuxpirate&theme=dark)](https://github.com/pinguinoretr0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelinuxpirate&theme=dark)](https://github.com/thelinuxpirate/github-readme-stats)
 
 
-[![Goofy Ahh Statistics](https://github-readme-stats.vercel.app/api?username=thelinuxpirate&theme=dark)](https://github.com/pinguinoretr0/github-readme-stats)
+[![Goofy Ahh Statistics](https://github-readme-stats.vercel.app/api?username=thelinuxpirate&theme=dark)](https://github.com/thelinuxpirate/github-readme-stats)
 
 ## Projects
 - Snormacs | GNU Emacs Configuration: includes a stable EXWM environment & an unstable Rust backend
