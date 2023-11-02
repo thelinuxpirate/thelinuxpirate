@@ -10,7 +10,7 @@ I hope to get comfortable enough with programming where I can start creating som
 
 ## Projects
 - Snormacs | GNU Emacs Configuration: includes a stable EXWM environment & an unstable Rust backend
-- Real World: The Game | TUI Game (Rust + Ratatui)
+- Real World: The Game | TUI Game (CLI Rust Game)
 - Wiggler | A Discord Bot (Rust Bot + RealWorldTheGame)
   
 **(Pending...)**
