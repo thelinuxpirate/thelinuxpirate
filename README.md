@@ -26,9 +26,9 @@ I hope to get comfortable enough with programming where I can start creating som
 ## The Startup
 ThePirateCove is small startup group of highschool friends whom have a goal to create a video game.
 In the future I hope to release free & open source software under the name of ThePirateCove.
-
+<!-- neovim/helix -->
 ## Work Environment:
-[![](https://skillicons.dev/icons?i=emacs,linux,neovim,discord)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=emacs,linux,discord)](https://skillicons.dev)
 
 ## Languages/Software I'm interested in:
 [![Languages:](https://skillicons.dev/icons?i=rust,haskell,nim,c,zig,go,elixir,ts,lua&perline=3)](https://skillicons.dev)
