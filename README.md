@@ -15,6 +15,7 @@ that actually will have a use case in the real world. As of right now I still ha
 | Snormacs | A GNU Emacs Configuration: includes a stable EXWM environment & an unstable installler written in Rust. |
 | Real World: The Game | CLI NFT crypto mini-game written in Rust.  | 
 | Wiggler | A Discord bot being written using the discord.js API. | 
+| Atom Creator | Creates an Atom based on user parameters (Elixir) | 
 
 **(Pending...)**
 | Projects | Idea |
