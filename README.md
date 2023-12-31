@@ -15,14 +15,14 @@ that actually will have a use case in the real world. As of right now I still ha
 | Snormacs | A GNU Emacs Configuration: includes a stable EXWM environment & an unstable installler written in Rust. |
 | Real World: The Game | CLI NFT crypto mini-game written in Rust.  | 
 | Wiggler | A Discord bot being written using the discord.js API. | 
-| Atom Creator | Creates an Atom based on user parameters (Elixir) | 
+| TLPfetch | A small fetch tool inspired by pfetch (Haskell) | 
+| Atom Creator | Creates an Atom based on user parameters (Nim) | 
 
 **(Pending...)**
 | Projects | Idea |
 | ----------- | ----------- |
 | ThePirateCove.xyz | Create a website for my startup org: 'ThePirateCove' | 
 | Title Pending (Shitman) | Dungeon Crawler Game in progress using Godot Game Engine | 
-| Chemistry Sig Fig Calculator | Haskell **or** Elixir | 
 | BetterDiscord Vi-like Plugin | Typescript/Javascript | 
 | Mini Proxy Server | Nim or Haskell |
 | Custom Wii Channel Menu | C/C++ | 
