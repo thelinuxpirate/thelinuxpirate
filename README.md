@@ -10,16 +10,15 @@ that actually will have a use case in the real world. As of right now I still ha
 [![Goofy Ahh Statistics](https://github-readme-stats.vercel.app/api?username=thelinuxpirate&theme=dark)](https://github.com/thelinuxpirate/github-readme-stats)
 
 ## Currently Working On
-| Projects | Description |
+| Project | Description |
 | ----------- | ----------- |
 | Snormacs | A GNU Emacs Configuration: includes a stable EXWM environment & an unstable installler written in Rust. |
 | Real World: The Game | CLI NFT crypto mini-game written in Rust.  | 
 | Wiggler | A Discord bot being written using the discord.js API. | 
-| TLPfetch | A small fetch tool inspired by pfetch (Haskell) | 
-| Atom Creator | Creates an Atom based on user parameters (Nim) | 
+| TLPfetch | A small fetch tool inspired by pfetch (Haskell) |  
 
 **(Pending...)**
-| Projects | Idea |
+| Project | Idea |
 | ----------- | ----------- |
 | ThePirateCove.xyz | Create a website for my startup org: 'ThePirateCove' | 
 | Title Pending (Shitman) | Dungeon Crawler Game in progress using Godot Game Engine | 
@@ -27,6 +26,10 @@ that actually will have a use case in the real world. As of right now I still ha
 | Mini Proxy Server | Nim or Haskell |
 | Custom Wii Channel Menu | C/C++ | 
 
+**Completed**
+| Project | Description |
+| ----------- | ----------- |
+| Atom Creator | Creates an Atom based on user parameters (Nim) |
 
 # Extra
 ## The Startup
