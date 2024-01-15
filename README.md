@@ -41,4 +41,4 @@ In the future I hope to release free & open source software under the name of Th
 [![](https://skillicons.dev/icons?i=linux,neovim,github,git,nix,gitlab,md,discord,godot,&perline=3)](https://skillicons.dev)
 
 ## Languages & Libraries I'm interested in:
-[![Languages:](https://skillicons.dev/icons?i=rust,haskell,nim,c,cpp,ts,lua,elixir,go,zig,css,html,kotlin,clojure,bash,perl,bun,nodejs,rocket,solidjs,tailwind,tauri,astro&perline=4)](https://skillicons.dev)
+[![Languages:](https://skillicons.dev/icons?i=rust,nim,haskell,lua,c,cpp,ts,go,elixir,css,html,zig,kotlin,clojure,perl,bash,bun,nodejs,rocket,solidjs,tailwind,tauri,astro,raspberrypi,&perline=4)](https://skillicons.dev)
