@@ -39,6 +39,5 @@ In the future I hope to release free & open source software under the name of Th
 
 ## My Work Environment:
 [![](https://skillicons.dev/icons?i=linux,neovim,github,git,nix,gitlab,md,discord,godot,&perline=3)](https://skillicons.dev)
-
 ## Languages & Libraries I'm interested in:
 [![Languages:](https://skillicons.dev/icons?i=rust,nim,haskell,lua,c,cpp,ts,go,elixir,css,html,zig,kotlin,clojure,perl,bash,bun,nodejs,rocket,solidjs,tailwind,tauri,astro,raspberrypi,&perline=4)](https://skillicons.dev)
