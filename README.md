@@ -38,6 +38,6 @@ ThePirateCove is small startup group of highschool friends whom have a goal to c
 In the future I hope to release free & open source software under the name of ThePirateCove.
 
 ## My Work Environment:
-[![](https://skillicons.dev/icons?i=linux,neovim,github,git,nix,gitlab,md,discord,godot,&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linux,emacs,github,git,nix,gitlab,neovim,discord,godot,&perline=3)](https://skillicons.dev)
 ## Languages & Libraries I'm interested in:
 [![Languages:](https://skillicons.dev/icons?i=rust,nim,haskell,lua,c,cpp,ts,go,elixir,css,html,zig,kotlin,clojure,perl,bash,bun,nodejs,rocket,solidjs,tailwind,tauri,astro,raspberrypi,&perline=4)](https://skillicons.dev)
