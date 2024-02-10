@@ -12,16 +12,17 @@ that actually will have a use case in the real world. As of right now I still ha
 ## Currently Working On
 | Project | Description |
 | ----------- | ----------- |
-| Sleepy-Nvim | A Neovim & Neovide configuration; my personal text editor |
-| Real World: The Game | CLI NFT crypto mini-game written in Rust.  | 
-| Wiggler | A Discord bot being written using the discord.js API. | 
-| TLPfetch | A small fetch tool inspired by pfetch (Haskell) |  
+| Snormacs | GNU Emacs Configuration: includes EXWM environment & Emacs Rust bindings (EXWM-Rust bindings is a work in progress) |
+| Real World: The Game | Tauri NFT crypto mini-game application (cross-platform)  | 
+| Wiggler | (Plans for this bot are changing...) | 
+| TLPfetch | A small fetch tool inspired by pfetch written in Haskell |  
 
 **(Pending...)**
 | Project | Idea |
 | ----------- | ----------- |
 | ThePirateCove.xyz | Create a website for my startup org: 'ThePirateCove' | 
-| Title Pending (Shitman) | Dungeon Crawler Game in progress using Godot Game Engine | 
+| ThePirateCove's Chaos Catalysts | A 2D fighting game (Godot Game Engine) | 
+| Title-Pending (ThePirateCove's: RPG-Game) | Dungeon Crawler Game (Godot Game Engine) | 
 | BetterDiscord Vi-like Plugin | Typescript/Javascript | 
 | Mini Proxy Server | Nim or Haskell |
 | Custom Wii Channel Menu | C/C++ | 
@@ -29,13 +30,14 @@ that actually will have a use case in the real world. As of right now I still ha
 **Completed**
 | Project | Description |
 | ----------- | ----------- |
-| Atom Creator | Creates an Atom based on user parameters (Nim) |
-| Snormacs (Discarded) | A GNU Emacs Configuration: includes stable EXWM environment & installler written in Rust with a Rust library. |
+| Atom Creator | An atom creator that creates atoms based on the user's prefrences (Nim) |
+| Sleepy-Nvim | A tiny & minimal Neovim configuration |
+
 
 # Extra
 ## The Startup
-ThePirateCove is small startup group of highschool friends whom have a goal to create a video game.
-In the future I hope to release free & open source software under the name of ThePirateCove.
+ThePirateCove is small startup organization that hopes to develop FOSS & develop fun games for 
+the entertainment of others.
 
 ## My Work Environment:
 [![](https://skillicons.dev/icons?i=linux,emacs,github,git,nix,gitlab,neovim,discord,godot,&perline=3)](https://skillicons.dev)
