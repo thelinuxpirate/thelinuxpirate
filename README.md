@@ -1,5 +1,5 @@
 ### TheLinuxPirate aka TLP
-16 year old software developer.
+17 year old software developer.
 
 I hope to get comfortable enough with programming where I can start creating some **REAL** programs & software
 that actually will have a use case in the real world. As of right now I still have a lot to learn...
