@@ -1,45 +1,48 @@
-### TheLinuxPirate aka TLP
-17 year old software developer.
+### Trong aka TheLinuxPirate
+17 year old software developer
 
-I hope to get comfortable enough with programming where I can start creating some **REAL** programs & software
-that actually will have a use case in the real world. As of right now I still have a lot to learn...
+As of now I still am very ambitious and have lots of goals in mind.
+But I still have lots to learn.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelinuxpirate&theme=dark)](https://github.com/thelinuxpirate/github-readme-stats)
-
-
-[![Goofy Ahh Statistics](https://github-readme-stats.vercel.app/api?username=thelinuxpirate&theme=dark)](https://github.com/thelinuxpirate/github-readme-stats)
+I'd like to develop my own organization where I can develop software with a purpose & get into
+game modification. An example being Project-Breadbug where I'd like to find a way to bring Netplay
+to the game Pikmin 2, which is no easy task...
 
 ## Currently Working On
 | Project | Description |
 | ----------- | ----------- |
-| Snormacs | GNU Emacs Configuration: includes EXWM environment & Emacs Rust bindings (EXWM-Rust bindings is a work in progress) |
-| Real World: The Game | Tauri NFT crypto mini-game application (cross-platform)  | 
-| Wiggler | (Plans for this bot are changing...) | 
-| TLPfetch | A small fetch tool inspired by pfetch written in Haskell |  
+| Sleepy-Nvim | My own Neovim configuration built upon NvChad |
+| WigglerDB | Discord Bot tailored for a specific Discord Server (Javascript) |
+| Real World: The Game | CLI Game (Rust) |
+| Sleepy-DWM | My own patched version of DWM & Suckless tools (C) |
 
 **(Pending...)**
 | Project | Idea |
 | ----------- | ----------- |
-| ThePirateCove.xyz | Create a website for my startup org: 'ThePirateCove' | 
-| ThePirateCove's Chaos Catalysts | A 2D fighting game (Godot Game Engine) | 
+| Project-Breadbug | Bring netplay features to Pikmin 2 |
+| ThePirateCove.xyz | Develop a website for my startup org: 'ThePirateCove' | 
+| ThePirateCove's Fighting Game | A 2D fighting game (Godot Game Engine) | 
 | Title-Pending (ThePirateCove's: RPG-Game) | Dungeon Crawler Game (Godot Game Engine) | 
-| BetterDiscord Vi-like Plugin | Typescript/Javascript | 
-| Mini Proxy Server | Nim or Haskell |
-| Custom Wii Channel Menu | C/C++ | 
+| BetterDiscord Vi-like Plugin | Bring Vim-like bindings to BetterDiscord (Typescript/Javascript) | 
+| Snormacs | GNU Emacs Configuration: EXWM environment & Emacs Rust bindings (Might come back to this later) |
+| Mini Proxy Server | My own small mini proxy server. (Nim or Haskell) |
+| Custom Wii Channel Menu | I'd like to learn more about the Wii console (C/C++) | 
 
 **Completed**
 | Project | Description |
 | ----------- | ----------- |
-| Atom Creator | An atom creator that creates atoms based on the user's prefrences (Nim) |
-| Sleepy-Nvim | A tiny & minimal Neovim configuration |
+| Playme.rs | Small Rust project that plays an audio file in the background for use with your .xinitrc on Unix systems (Rust) |
+| Atom Creator | Nimble project that creates atoms based on the user's prefrences (Nim) |
+| Bio Project | Mini CLI project developed for a biology project from early 2023 (Rust) |
 
 
 # Extra
 ## The Startup
-ThePirateCove is small startup organization that hopes to develop FOSS & develop fun games for 
-the entertainment of others.
+ThePirateCove is small startup organization that hopes to develop FOSS & develop games for 
+the entertainment of others. ThePirateCove hopes to inspire others to try their hand at development &
+embrace the idea of Open Source software where fellow users of that software can contribute to it.
 
 ## My Work Environment:
-[![](https://skillicons.dev/icons?i=linux,emacs,github,git,nix,gitlab,neovim,discord,godot,&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linux,neovim,github,discord,nix,git,godot,&perline=3)](https://skillicons.dev)
 ## Languages & Libraries I'm interested in:
-[![Languages:](https://skillicons.dev/icons?i=rust,nim,haskell,lua,c,cpp,ts,go,elixir,css,html,zig,kotlin,clojure,perl,bash,bun,nodejs,rocket,solidjs,tailwind,tauri,astro,raspberrypi,&perline=4)](https://skillicons.dev)
+[![Languages & APIs:](https://skillicons.dev/icons?i=c,rust,nim,zig,cpp,go,ts,haskell,elixir,clojure,bash,lua,kotlin,raspberrypi,tauri,bun,rocket,solidjs,tailwind,astro,&perline=5)](https://skillicons.dev)
