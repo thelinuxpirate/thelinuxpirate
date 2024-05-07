@@ -43,6 +43,6 @@ the entertainment of others. ThePirateCove hopes to inspire others to try their 
 embrace the idea of Open Source software where fellow users of that software can contribute to it.
 
 ## My Work Environment:
-[![](https://skillicons.dev/icons?i=linux,neovim,github,discord,nix,git,godot,&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linux,neovim,github,discord,nix,godot,&perline=3)](https://skillicons.dev)
 ## Languages & Libraries I'm interested in:
 [![Languages & APIs:](https://skillicons.dev/icons?i=c,rust,nim,zig,cpp,go,ts,haskell,elixir,clojure,bash,lua,kotlin,raspberrypi,tauri,bun,rocket,solidjs,tailwind,astro,&perline=5)](https://skillicons.dev)
