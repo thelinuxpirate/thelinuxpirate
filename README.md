@@ -25,6 +25,5 @@
 
 ## My Work Environment:
 [![](https://skillicons.dev/icons?i=linux,emacs,github,discord,nix,neovim,&perline=3)](https://skillicons.dev)
-
 ## Languages & Libraries I'm interested in:
 [![Languages & APIs:](https://skillicons.dev/icons?i=go,rust,cpp,c,ts,nix,zig,lua,bash,nim,haskell,&perline=5)](https://skillicons.dev)
