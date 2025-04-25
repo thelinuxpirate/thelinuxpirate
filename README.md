@@ -1,5 +1,5 @@
 ### Trong aka TheLinuxPirate
-17 year old programmer
+18 year old programmer
 
 
 | Project | Description |
