@@ -1,27 +1,18 @@
-### Trong AKA TheLinuxPirate
+![header](https://capsule-render.vercel.app/api?type=rect&height=100&color=407d50&text=TRONG&fontSize=45&desc=University%20of%20California,%20Merced&section=header&reversal=false&descSize=15&descAlignY=64&animation=scaleIn)
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/thelinuxpirate/NixOS-Dotfiles) [![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)](https://github.com/thelinuxpirate/Editors) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmartinez007/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/588767393526841353) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/spektralfrogadier) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@thelinuxpirate) [![Kick](https://img.shields.io/badge/kick-53FC18?style=for-the-badge&logo=kick&logoColor=white)](https://kick.com/thelinuxpirate)
+
 
 | Project | Description |
 | ----------- | ----------- |
-| **TODO** | *Projects that I'm either working on or are upcoming* |
+| **TODO** | *Projects that I'm working on* |
+| Real World: The Game | Fake crypto game, where you have to pay off a 'debt' (Rust) |
+| playmectl | Terminal .mp3/.wav player that plays an audio file in the background on Unix systems (Rust) |
 | TRONGB0XX | A fork of the Haybox controller firmware made for B0XX-styled controllers with my own modes for games & modifications (C++/Nix) |
-| ChadWM (fork) | My own fork of the ChadWM DWM configuration, it includes more patches suited for my workflow (C) |
-| Real World: The Game | Fake crypto game, where you have to pay off a 'debt'; originally developed mid 2022 (Rust) |
-| Sleepy-DWM | My own patched version of DWM & Suckless tools with some nix functionality (C) |
-| Playmectl | Terminal .mp3/.wav player that plays an audio file in the background for use with your .xinitrc on Unix systems (Rust) |
+| Darkwraith Emacs | My own configuration for DOOM Emacs (Elisp) |
+| NixOS Dotfiles | I used NixOS for 6 months; but I'd like to return to NixOS & work on it again in the future (Nix) |
+| **SEEKING** | *Projects that I'm seeking to start* |
 | VimCord Plugin | Bring Vim-like bindings to Vencord/BetterDiscord (Typescript/Javascript) |
-| NixOS Dotfiles | Dotfiles for when I used NixOS for 6 months, I'd like to return to NixOS in the future (Nix) |
-| Custom Wii Channel Menu | I'd like to learn more about the Wii console (C/C++) | 
-| **COMPLETED** | *Projects that I've actually completed* |
-| Sleepy-DWM | My own patched version of DWM & Suckless tools with some nix functionality (C) |
-| HIELO | My personal configuration of NixVim (Nix) |
-| Dynamic-Paper | A dynamic wallpaper setter for Unix systems that can change your wallpaper depending on the time of day (Go) |
-| Passwdgen | A 'secure' password generator that probably doesn't even work **:(** (Go) | 
-| Snormacs | My old GNU Emacs Configuration: EXWM environment & broken Rust bindings to Emacs (Elisp/Rust/Nix) |
-| Atom Creator | Nimble project that creates 'atoms' based on the user's prefrences (Nim) |
-| Bio-Project | Mini CLI project that projects my Sophmore year's biology notes developed in early 2023 (Rust) |
-
-
-## My Work Environment:
-[![](https://skillicons.dev/icons?i=linux,emacs,github,discord,nix,neovim,&perline=3)](https://skillicons.dev)
-## Languages & Libraries I'm interested in:
-[![Languages & APIs:](https://skillicons.dev/icons?i=go,rust,cpp,c,ts,nix,zig,lua,nim,haskell,&perline=5)](https://skillicons.dev)
+| Zigbox | Port HayBox controller from C++ to Zig (Zig) |
+| Chippy | Basic CHIP-8 Emulator (Rust) |
+| Custom Wii Channel Menu | Planning on getting into emulation programming (C/C++) | 
