@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=100&color=407d50&text=TRONG&fontSize=45&desc=University%20of%20California,%20Merced&section=header&reversal=false&descSize=15&descAlignY=75&animation=scaleIn)
+<h1 align="center">University of California, Merced</h1>
+<h1 align="center">Data Science & Analytics; Business Analysis Emphasis B.A '28</h1>
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/thelinuxpirate/NixOS-Dotfiles) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/588767393526841353) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmartinez007/)
-
-# UC Merced: Data Science & Analytics; Business Analysis Emphasis B.A '28
 
 | Project | Description | Language | 
 | ----------- | ----------- | ----------- |
